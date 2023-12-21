@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.da173e38.css",
-    "main.js": "./static/js/main.e7306db8.js",
-    "static/js/787.61f74e33.chunk.js": "./static/js/787.61f74e33.chunk.js",
-    "static/media/card-background.jpg": "./static/media/card-background.914910ce35299bc4af2a.jpg",
-    "static/media/title-background.jpg": "./static/media/title-background.e68d7c7de57ddd48a738.jpg",
-    "index.html": "./index.html",
-    "main.da173e38.css.map": "./static/css/main.da173e38.css.map",
-    "main.e7306db8.js.map": "./static/js/main.e7306db8.js.map",
-    "787.61f74e33.chunk.js.map": "./static/js/787.61f74e33.chunk.js.map"
+    "main.css": "/ReactPortfolio/static/css/main.602ff221.css",
+    "main.js": "/ReactPortfolio/static/js/main.0c050e88.js",
+    "static/js/787.61f74e33.chunk.js": "/ReactPortfolio/static/js/787.61f74e33.chunk.js",
+    "static/media/card-background.jpg": "/ReactPortfolio/static/media/card-background.914910ce35299bc4af2a.jpg",
+    "static/media/title-background.jpg": "/ReactPortfolio/static/media/title-background.e68d7c7de57ddd48a738.jpg",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.602ff221.css.map": "/ReactPortfolio/static/css/main.602ff221.css.map",
+    "main.0c050e88.js.map": "/ReactPortfolio/static/js/main.0c050e88.js.map",
+    "787.61f74e33.chunk.js.map": "/ReactPortfolio/static/js/787.61f74e33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da173e38.css",
-    "static/js/main.e7306db8.js"
+    "static/css/main.602ff221.css",
+    "static/js/main.0c050e88.js"
   ]
 }
