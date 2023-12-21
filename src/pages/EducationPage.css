@@ -1,0 +1,111 @@
+.edu-title{
+    background-image: url(../images/title-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    font-size: 3em;
+    opacity: 0;
+    animation: 2s comeIn forwards;
+    color: azure;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    text-shadow: 2px 2px gray;
+  }
+
+  @keyframes comeIn{
+    from{
+        opacity: 0;
+        font-size: 3em;
+    }
+    to{
+        opacity: 1;
+        font-size: 5em;
+    }
+  }
+
+.edu-container{
+    flex: 1;
+    padding: 1em 0.5em;
+}
+
+.Outer-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    border: 1px solid black;
+    width: 100%;
+    margin: 4em auto;
+    color: azure;
+    opacity: 0;
+    animation: 2s appearIn forwards;
+    animation-delay: 0.25s;
+}
+
+@keyframes appearIn{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+#image{
+    border-radius: 10%;
+}
+
+#edu-title{
+    font-size: 2em;
+}
+
+.edu{
+    padding-left: 2em;
+    font-size: 1.5em;
+}
+
+#ua{
+    background-color: hsl(221, 75%, 57%);
+}
+
+#dhs{
+    background-color: hsl(221, 65%, 44%);
+}
+
+
+.table {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.table-col {
+    background: hsla(212, 93%, 27%, 0.8);
+    color: white;
+    height: 40px;
+    font-size: 20px;
+}
+
+.current-courses {
+    background: hsl(212, 80%, 66%);
+    color: white;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 0 !important;
+}
+
+.table td {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.grade {
+    text-align: center;
+}
+
+#courses-title {
+    font-size: 40px;
+    text-align: center;
+}
+
