@@ -58,10 +58,31 @@ const ProjectCards = () =>{
                     <p className="card-instruct">Click On Card For Project</p>
                 </div>
             </a>
-            <a className="projects" href="https://jlujan.net" target="_blank" rel="noreferrer">
+            <a className="projects" href="https://jlujan.com" target="_blank" rel="noreferrer">
                 <div className="card">
                     <h3 className="card-title">Personal Website</h3>
                     <p className="card-description"> Created a personal website using the React framework and NodeJS Environment</p>
+                    <p className="card-instruct">Click On Card For Project</p>
+                </div>
+            </a>
+            <a className="projects" href="https://github.com/jlujan209/Alien-Invasion-Game" target="_blank" rel="noreferrer">
+                <div className="card">
+                    <h3 className="card-title">Alien Invasion</h3>
+                    <p className="card-description">Implemented a game of Alien Invasion using the Python3 programming Language with the Pygame library</p>
+                    <p className="card-instruct">Click On Card For Project</p>
+                </div>
+            </a>
+            <a className="projects" href="https://github.com/jlujan209/SFWE301_MatchingSubsystem" target="_blank" rel="noreferrer">
+                <div className="card">
+                    <h3 className="card-title">Scholarship Management System</h3>
+                    <p className="card-description"> Implemented the Matching Engine Subsystem for a Scholarship Management System using the Java programming language</p>
+                    <p className="card-instruct">Click On Card For Project</p>
+                </div>
+            </a>
+            <a className="projects" href="https://github.com/jlujan209/BlackJack-Project" target="_blank" rel="noreferrer">
+                <div className="card">
+                    <h3 className="card-title">Blackjack</h3>
+                    <p className="card-description">Implemented and deployed a web app that allows users to play blackjack online, using the Python3 programming language and the Django framework</p>
                     <p className="card-instruct">Click On Card For Project</p>
                 </div>
             </a>

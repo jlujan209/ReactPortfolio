@@ -26,7 +26,7 @@ const University = () =>{
                 <h2 className="edu" id="edu-title">University of Arizona</h2>
                 <p className="edu">Bachelor of Science in Software Engineering.</p>
                 <p className="edu">Expected Graduation Date: 05/25.</p>
-                <p className="edu">GPA: 3.93.</p>
+                <p className="edu">GPA: 3.87.</p>
             </div>
         </div>
     );
